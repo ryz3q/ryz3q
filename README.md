@@ -1,8 +1,8 @@
 <p align=center>ryz3q#3818 on discord</p>
 
 <p align="center">
-  <a href="https://github.com/addi00000"><img src="https://img.shields.io/github/followers/ryz3q?style=for-the-badge"></img></a>
-  <a href="https://github.com/addi00000"><img src="https://img.shields.io/github/stars/ryz3q?style=for-the-badge"></img></a>
+  <a href="https://github.com/ryz3q"><img src="https://img.shields.io/github/followers/ryz3q?style=for-the-badge"></img></a>
+  <a href="https://github.com/ryz3q"><img src="https://img.shields.io/github/stars/ryz3q?style=for-the-badge"></img></a>
 </p>
 
 <p align="center">
